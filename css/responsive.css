@@ -1,0 +1,22 @@
+@media(max-width: 800px){
+	.burger{
+		display: block;
+		flex-direction: column;
+	}
+	.nav{
+		color: blue;
+		font-size: 15px;
+	}
+	.img{
+		width: 20%;
+	}
+	.footerimg{
+		width: 100%;
+	}
+	.informs{
+		width: 100%;
+	}
+	.txtarea{
+		width: 100px;
+	}
+}
